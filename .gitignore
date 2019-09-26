@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# MacStuff
+*$*.ppt*
+.DS_Store

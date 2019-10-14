@@ -33,11 +33,11 @@
 |                      |   |                                           |
 |----------------------|---|-------------------------------------------|
 | 9:00 - 9:15          |   | Introduction (_breakfast provided_)       |
-| 9:15 - 10:30         | https://docs.google.com/presentation/d/1c6d_DnyxbErmnzF2S5b-qGC62gxgqE59fhZUMGKN0qY/edit?usp=sharing  | Clustering and Differential Expression    |
-|  | Colab  |  |
-|  | Colab  |  |
+| 9:15 - 10:30         | [![View in Google Slides](https://img.shields.io/static/v1?label=View%20in&message=Google%20Slides&color=yellow&logo=Google%20Drive)](https://docs.google.com/presentation/d/1c6d_DnyxbErmnzF2S5b-qGC62gxgqE59fhZUMGKN0qY/edit?usp=sharing)  | Clustering and Differential Expression    |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Clustering/notebooks/00_Clustering_toy_data.ipynb)  | Clustering Toy Data  |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Clustering/notebooks/01_Clustering_Embryoid_Body_Data.ipynb) &emsp; | Clustering Embryoid Body Data  |
 | 10:30 - 11:00        |   | _Coffee Break_                            |
-| 11:00 - 12:00 &emsp; | https://drive.google.com/open?id=1Za5BdpUJPs4KGNkGvhUq98zH5jrZ2Ngx  | Reducing Noise in scRNAseq Measurements   |
+| 11:00 - 12:00 &emsp; | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/open?id=1Za5BdpUJPs4KGNkGvhUq98zH5jrZ2Ngx)  | Reducing Noise in scRNAseq Measurements   |
 |  | Colab  |  |
 | 12:00 - 1:00         |   | _Lunch_                                   |
 | 1:00 - 2:30          | Slides  | Identifying Developmental Trajectories    |

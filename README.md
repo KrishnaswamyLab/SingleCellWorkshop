@@ -37,7 +37,7 @@
 |  | Colab  |  |
 |  | Colab  |  |
 | 10:30 - 11:00        |   | _Coffee Break_                            |
-| 11:00 - 12:00 &emsp; | Slides  | Reducing Noise in scRNAseq Measurements   |
+| 11:00 - 12:00 &emsp; | https://drive.google.com/open?id=1Za5BdpUJPs4KGNkGvhUq98zH5jrZ2Ngx  | Reducing Noise in scRNAseq Measurements   |
 |  | Colab  |  |
 | 12:00 - 1:00         |   | _Lunch_                                   |
 | 1:00 - 2:30          | Slides  | Identifying Developmental Trajectories    |

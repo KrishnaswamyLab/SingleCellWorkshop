@@ -33,7 +33,7 @@
 |                      |   |                                           |
 |----------------------|---|-------------------------------------------|
 | 9:00 - 9:15          |   | Introduction (_breakfast provided_)       |
-| 9:15 - 10:30         | Slides  | Clustering and Differential Expression    |
+| 9:15 - 10:30         | https://docs.google.com/presentation/d/1c6d_DnyxbErmnzF2S5b-qGC62gxgqE59fhZUMGKN0qY/edit?usp=sharing  | Clustering and Differential Expression    |
 |  | Colab  |  |
 |  | Colab  |  |
 | 10:30 - 11:00        |   | _Coffee Break_                            |

@@ -42,7 +42,6 @@
 | 12:00 - 1:00         |   | _Lunch_                                   |
 | 1:00 - 2:30          | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1_lAZcHS7vGnQC4JE6n40X6u1ETiMSts2/view?usp=sharing)  | Identifying Developmental Trajectories    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/00_Pseudotime_from_scratch.ipynb)  | 4.0 Computing Diffusion Pseudotime    |
-|  | Colab  |  |
 | 2:30 - 3:00          | Slides  | Characterizing Gene Trends over Time      |
 | 3:00 - 3:30          |   | _Coffee Break_                            |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/01_Treutlein_fibroblast_data.ipynb)  | 4.1 Trajectory Inference in Fibroblast Data    |

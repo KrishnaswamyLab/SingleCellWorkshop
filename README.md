@@ -5,7 +5,7 @@
 |                      |   |                                          |
 |----------------------|---|------------------------------------------|
 | 9:00 - 9:15          |   | _Registration/Breakfast_                   |
-| 9:15 - 9:30          |   | Introduction                             |
+| 9:15 - 9:30          | [![View in Google Slides](https://img.shields.io/static/v1?label=View%20in&message=Google%20Slides&color=yellow&logo=Google%20Drive)](https://docs.google.com/presentation/d/14U8BxQOL_c3_24PAPDv0o-1RTw-IAOMIvPa_r-S1K20/edit?usp=sharing)   | Introduction                             |
 | 9:30 - 10:00         | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1hnH5RkybXUA0yXYP4oqhwXPX3TO5uJsn/view?usp=sharing)  | Challenges in Single Cell Analysis       |
 | 10:00 - 10:30        | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1MLPsyzyRGnbCHrDpf5ugh9TRpu5_6S-s/view) &emsp;  | Thinking about High-Dimensional Data              |
 | | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Introduction_to_Manifold_Learning/notebooks/00_Plotting_UCI_wine.ipynb) | 0.0. Plotting UCI Wine Data              |
@@ -44,7 +44,7 @@
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/00_Pseudotime_from_scratch.ipynb)  | 4.0 Computing Diffusion Pseudotime    |
 | 2:30 - 3:00          | Slides  | Characterizing Gene Trends over Time      |
 | 3:00 - 3:30          |   | _Coffee Break_                            |
-|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/01_Treutlein_fibroblast_data.ipynb)  | 4.1 Trajectory Inference in Fibroblast Data    |
+| 3:30 - 5:00 | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/01_Treutlein_fibroblast_data.ipynb)  | 4.1 Trajectory Inference in Fibroblast Data    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/02_Embryoid_body_trajectory_inference.ipynb)  | 4.2 Trajectory Inference in EB Data    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/03_RNA_velocity.ipynb)  | 4.3 RNA Velocity    |
 

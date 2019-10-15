@@ -46,7 +46,8 @@
 | 2:30 - 3:00          | Slides  | Characterizing Gene Trends over Time      |
 | 3:00 - 3:30          |   | _Coffee Break_                            |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/01_Treutlein_fibroblast_data.ipynb)  | 4.1 Trajectory Inference in Fibroblast Data    |
-| 3:30 - 5:00          | Colab  | 4.2 Gene Trends and Gene-Regulatory Inference |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/02_Embryoid_body_trajectory_inference.ipynb)  | 4.2 Trajectory Inference in EB Data    |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/03_RNA_velocity.ipynb)  | 4.3 RNA Velocity    |
 
 
 **Day 4 &mdash; Friday, October 18th**

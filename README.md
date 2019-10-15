@@ -49,7 +49,7 @@
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/03_RNA_velocity.ipynb)  | 4.3 RNA Velocity    |
 
 
-**Day 4 &mdash; Friday, October 18th**
+**Day 3 &mdash; Friday, October 18th**
 
 
 |                      |   |                                                 |
@@ -61,7 +61,7 @@
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Deep_Learning/notebooks/00_Classifier_networks.ipynb) &emsp; | 5.0 Classifying cell types with neural networks |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Deep_Learning/notebooks/01_Autoencoder_networks.ipynb)  | 5.1 Exploratory data analysis with autoencoders |
 | 12:00 - 1:00         |   | _Lunch_                                         |
-| 1:00 - 2:30          |   | Bring-your-own-data Workshop                    |
+| 1:00 - 2:30          | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/project_template.ipynb)  | Bring-your-own-data Workshop                    |
 | 4:30 - 5:00          |   | Workshop Presentations                          |
 | 5:00                 |   | _End of Class Celebration_                        |
 
@@ -70,3 +70,5 @@
 [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)]()
 [![View in Google Slides](https://img.shields.io/static/v1?label=View%20in&message=Google%20Slides&color=yellow&logo=Google%20Drive)]()
 [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)]()
+
+#### _Breakpoint_  - once you get here, please help those around you!

@@ -40,7 +40,7 @@
 | 11:00 - 12:00 &emsp; | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/open?id=1Za5BdpUJPs4KGNkGvhUq98zH5jrZ2Ngx)  | Reducing Noise in scRNAseq Measurements   |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Clustering/notebooks/01_Clustering_Embryoid_Body_Data.ipynb) &emsp; | 3.1 Clustering & Denoising Embryoid Body Data  |
 | 12:00 - 1:00         |   | _Lunch_                                   |
-| 1:00 - 2:30          | Slides  | Identifying Developmental Trajectories    |
+| 1:00 - 2:30          | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1_lAZcHS7vGnQC4JE6n40X6u1ETiMSts2/view?usp=sharing)  | Identifying Developmental Trajectories    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/00_Pseudotime_from_scratch.ipynb)  | 4.0 Computing Diffusion Pseudotime    |
 |  | Colab  |  |
 | 2:30 - 3:00          | Slides  | Characterizing Gene Trends over Time      |

@@ -55,11 +55,11 @@
 |                      |   |                                                 |
 |----------------------|---|-------------------------------------------------|
 | 9:00 - 9:15          |   | Introduction (_breakfast provided_)             |
-| 9:15 - 10:30         | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1oaZnQpj1r0BxDEZG-L-IlFwLyGWN8e1m/view?usp=sharing)  | Introduction to Neural Networks & Deep Learning |
+| 9:15 - 10:30         | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1oaZnQpj1r0BxDEZG-L-IlFwLyGWN8e1m/view?usp=sharing)  | Introduction to Neural Nets & Deep Learning |
 | 10:30 - 11:00        |   | _Coffee Break_                                  |
-| 11:00 - 12:00 &emsp; | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1oaZnQpj1r0BxDEZG-L-IlFwLyGWN8e1m/view?usp=sharing)  | Neural Network Classifiers & Autoencoders       |
-|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Deep_Learning/notebooks/00_Classifier_networks.ipynb)  | 5.0 Classifying cell types with neural networks |
-|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Deep_Learning/notebooks/01_Autoencoder_networks.ipynb)  | 5.1 Exploratory data analysis with autoencoding neural networks |
+| 11:00 - 12:00 &emsp; | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1oaZnQpj1r0BxDEZG-L-IlFwLyGWN8e1m/view?usp=sharing) &emsp; | Neural Network Classifiers & Autoencoders       |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Deep_Learning/notebooks/00_Classifier_networks.ipynb) &emsp; | 5.0 Classifying cell types with neural networks |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Deep_Learning/notebooks/01_Autoencoder_networks.ipynb)  | 5.1 Exploratory data analysis with autoencoders |
 | 12:00 - 1:00         |   | _Lunch_                                         |
 | 1:00 - 2:30          |   | Bring-your-own-data Workshop                    |
 | 4:30 - 5:00          |   | Workshop Presentations                          |

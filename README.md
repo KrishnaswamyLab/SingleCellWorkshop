@@ -6,7 +6,7 @@
 |----------------------|---|------------------------------------------|
 | 9:00 - 9:15          |   | _Registration/Breakfast_                   |
 | 9:15 - 9:30          |   | Introduction                             |
-| 9:30 - 10:00         | Slides  | Challenges in Single Cell Analysis       |
+| 9:30 - 10:00         | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1hnH5RkybXUA0yXYP4oqhwXPX3TO5uJsn/view?usp=sharing)  | Challenges in Single Cell Analysis       |
 | 10:00 - 10:30        | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1MLPsyzyRGnbCHrDpf5ugh9TRpu5_6S-s/view) &emsp;  | Thinking about High-Dimensional Data              |
 | | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Introduction_to_Manifold_Learning/notebooks/00_Plotting_UCI_wine.ipynb) | 0.0. Plotting UCI Wine Data              |
 | 10:30 - 11:00        |   | _Coffee Break_                           |

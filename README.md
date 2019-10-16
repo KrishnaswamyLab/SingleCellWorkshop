@@ -5,7 +5,7 @@
 |                      |   |                                          |
 |----------------------|---|------------------------------------------|
 | 9:00 - 9:15          |   | _Registration/Breakfast_                   |
-| 9:15 - 9:30          |   | Introduction                             |
+| 9:15 - 9:30          | [![View in Google Slides](https://img.shields.io/static/v1?label=View%20in&message=Google%20Slides&color=yellow&logo=Google%20Drive)](https://docs.google.com/presentation/d/14U8BxQOL_c3_24PAPDv0o-1RTw-IAOMIvPa_r-S1K20/edit?usp=sharing)   | Introduction                             |
 | 9:30 - 10:00         | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1hnH5RkybXUA0yXYP4oqhwXPX3TO5uJsn/view?usp=sharing)  | Challenges in Single Cell Analysis       |
 | 10:00 - 10:30        | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1MLPsyzyRGnbCHrDpf5ugh9TRpu5_6S-s/view) &emsp;  | Thinking about High-Dimensional Data              |
 | | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Introduction_to_Manifold_Learning/notebooks/00_Plotting_UCI_wine.ipynb) | 0.0. Plotting UCI Wine Data              |
@@ -14,7 +14,7 @@
 | | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Introduction_to_Manifold_Learning/notebooks/01_Learning_graphs.ipynb) | 0.1. Learning Graphs from Data              |
 | 12:00 - 1:00         |   | _Lunch_                                  |
 | 1:00 - 2:30          | [![View in Google Slides](https://img.shields.io/static/v1?label=View%20in&message=Google%20Slides&color=yellow&logo=Google%20Drive)](https://docs.google.com/presentation/d/1E4YxrJ1Pn59DivJ2hNefdRED3fsPJDGzl8Rl3o-2XZw/edit?usp=sharing)  | Preprocessing scRNAseq Data              |
-| | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Preprocessing/notebooks/00_Loading_and_preprocessing_scRNAseq_data) | 1.0. Preprocessing Embryoid Body Data              |
+| | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Preprocessing/notebooks/00_Loading_and_preprocessing_scRNAseq_data.ipynb) | 1.0. Preprocessing Embryoid Body Data              |
 | 2:30 - 3:00          | [![View in Google Slides](https://img.shields.io/static/v1?label=View%20in&message=Google%20Slides&color=yellow&logo=Google%20Drive)](https://docs.google.com/presentation/d/1oOO7Hdswjk-WgZAJr-bpC-xoV6S8RtKRqdi8P89MlMo/edit?usp=sharing)  | What is Visualization? |
 | | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Dimensionality_Reduction/00_Creating_metafeatures.ipynb) | 2.0. Visualizing UCI Wine Data              |
 | 3:00 - 3:30          |   | _Coffee Break_                           |
@@ -42,15 +42,14 @@
 | 12:00 - 1:00         |   | _Lunch_                                   |
 | 1:00 - 2:30          | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1_lAZcHS7vGnQC4JE6n40X6u1ETiMSts2/view?usp=sharing)  | Identifying Developmental Trajectories    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/00_Pseudotime_from_scratch.ipynb)  | 4.0 Computing Diffusion Pseudotime    |
-|  | Colab  |  |
 | 2:30 - 3:00          | Slides  | Characterizing Gene Trends over Time      |
 | 3:00 - 3:30          |   | _Coffee Break_                            |
-|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/01_Treutlein_fibroblast_data.ipynb)  | 4.1 Trajectory Inference in Fibroblast Data    |
+| 3:30 - 5:00 | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/01_Treutlein_fibroblast_data.ipynb)  | 4.1 Trajectory Inference in Fibroblast Data    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/02_Embryoid_body_trajectory_inference.ipynb)  | 4.2 Trajectory Inference in EB Data    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/03_RNA_velocity.ipynb)  | 4.3 RNA Velocity    |
 
 
-**Day 4 &mdash; Friday, October 18th**
+**Day 3 &mdash; Friday, October 18th**
 
 
 |                      |   |                                                 |
@@ -62,7 +61,7 @@
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Deep_Learning/notebooks/00_Classifier_networks.ipynb) &emsp; | 5.0 Classifying cell types with neural networks |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Deep_Learning/notebooks/01_Autoencoder_networks.ipynb)  | 5.1 Exploratory data analysis with autoencoders |
 | 12:00 - 1:00         |   | _Lunch_                                         |
-| 1:00 - 2:30          |   | Bring-your-own-data Workshop                    |
+| 1:00 - 2:30          | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/project_template.ipynb)  | Bring-your-own-data Workshop                    |
 | 4:30 - 5:00          |   | Workshop Presentations                          |
 | 5:00                 |   | _End of Class Celebration_                        |
 
@@ -71,3 +70,5 @@
 [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)]()
 [![View in Google Slides](https://img.shields.io/static/v1?label=View%20in&message=Google%20Slides&color=yellow&logo=Google%20Drive)]()
 [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)]()
+
+#### _Breakpoint_  - once you get here, please help those around you!

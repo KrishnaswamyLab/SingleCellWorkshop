@@ -34,6 +34,7 @@
 |                      |   |                                           |
 |----------------------|---|-------------------------------------------|
 | 9:00 - 9:15          |   | Introduction (_breakfast provided_)       |
+| 9:05 - 9:15          | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/open?id=1wsbS67hnqjWOg5V9lDS4Rt354V6e7_wF)  | Review of Manifold Learning |
 | 9:15 - 10:30         | [![View in Google Slides](https://img.shields.io/static/v1?label=View%20in&message=Google%20Slides&color=yellow&logo=Google%20Drive)](https://docs.google.com/presentation/d/1c6d_DnyxbErmnzF2S5b-qGC62gxgqE59fhZUMGKN0qY/edit?usp=sharing)  | Clustering and Differential Expression    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/Clustering/notebooks/00_Clustering_toy_data.ipynb)  | 3.0 Clustering Toy Data  |
 | 10:30 - 11:00        |   | _Coffee Break_                            |
@@ -42,11 +43,14 @@
 | 12:00 - 1:00         |   | _Lunch_                                   |
 | 1:00 - 2:30          | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/file/d/1_lAZcHS7vGnQC4JE6n40X6u1ETiMSts2/view?usp=sharing)  | Identifying Developmental Trajectories    |
 |  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/00_Pseudotime_from_scratch.ipynb)  | 4.0 Computing Diffusion Pseudotime    |
-| 2:30 - 3:00          | Slides  | Characterizing Gene Trends over Time      |
+| | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/01_Treutlein_fibroblast_data.ipynb)  | 4.1 Trajectory Inference in Fibroblast Data    |
+|  
+| 2:30 - 3:00          | [![View on Google Drive](https://img.shields.io/static/v1?label=View%20on&message=Google%20Drive&color=yellow&logo=Google%20Drive)](https://drive.google.com/open?id=1H6YaiUXFJVVnprIXnxe0-Dyoamh4x-fK)  | Characterizing Gene Trends over Time      |
 | 3:00 - 3:30          |   | _Coffee Break_                            |
-| 3:30 - 5:00 | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/01_Treutlein_fibroblast_data.ipynb)  | 4.1 Trajectory Inference in Fibroblast Data    |
-|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/02_Embryoid_body_trajectory_inference.ipynb)  | 4.2 Trajectory Inference in EB Data    |
-|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/03_RNA_velocity.ipynb)  | 4.3 RNA Velocity    |
+| 3:30 - 5:00 | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/GeneRelationships/notebooks/00_Gene_Relationships_in_Treutlein_data.ipynb)  | 4.2 Identifying gene trends in Fibroblast Data    |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/02_Embryoid_body_trajectory_inference.ipynb)  | 4.3 Trajectory Inference in EB Data    |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/TrajectoryInference/notebooks/03_RNA_velocity.ipynb)  | 4.4 RNA Velocity    |
+|  | [![Run in Google Colab](https://img.shields.io/static/v1?label=Run%20in&message=Google%20Colab&color=orange&logo=Google%20Cloud)](https://colab.research.google.com/github/KrishnaswamyLab/SingleCellWorkshop/blob/master/exercises/GeneRelationships/notebooks/01_Gene_Relationships_in_EMT_data.ipynb)  | 5.0 Gene regulatory inference during EMT    |
 
 
 **Day 3 &mdash; Friday, October 18th**

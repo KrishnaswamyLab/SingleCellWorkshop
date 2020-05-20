@@ -106,3 +106,7 @@ venv.bak/
 # MacStuff
 *$*.ppt*
 .DS_Store
+
+# Data
+data.pickle.gz
+metadata.pickle.gz

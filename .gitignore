@@ -110,3 +110,4 @@ venv.bak/
 # Data
 data.pickle.gz
 metadata.pickle.gz
+r_packages.tar.gz

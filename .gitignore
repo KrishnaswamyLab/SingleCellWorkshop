@@ -108,7 +108,8 @@ venv.bak/
 .DS_Store
 
 # Data
-data.pickle.gz
-metadata.pickle.gz
+*data.pickle.gz
+*metadata.pickle.gz
 r_packages.tar.gz
-Enrichr
+Enrichr/
+*.npz
